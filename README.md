@@ -1,4 +1,4 @@
-You need to have all imported models (line 5 - line 8) as well as the [Tensorflow Object Detection API](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/). (Otherwise I don't know how you approach this problem by using Tensorflow).
+You need to have all imported modules (line 5 - line 8) as well as the [Tensorflow Object Detection API](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/). (Otherwise I don't know how you approach this problem by using Tensorflow).
 
 Example for converting the dataset to `.tfrecord`:
 
